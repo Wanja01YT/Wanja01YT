@@ -6,6 +6,7 @@
 - English
 - Spanish
 - Latin
+- Japanese
 - C# (Unity)
 - Java
 - Python (RenPy)
