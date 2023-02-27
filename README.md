@@ -1,4 +1,11 @@
-# I make games I guess
+# [Wanja01YT](https://wanja01yt.github.io/)
+
+## My interests
+- Video Game Development
+- Reverse Engineering
+- AI Image/Audio Generation
+- Creating Software for minor platforms
+
 
 ### (Programming) languages I know
 - Russian
