@@ -6,19 +6,14 @@
 - AI Image/Audio Generation
 - Creating Software for minor platforms
 
-
-### (Programming) languages I know
-- Russian
-- German
-- English
-- Spanish
-- Latin
-- Japanese
-- C# (Unity)
+## Languages
+🇺🇲🇷🇺🇩🇪🇪🇸🇯🇵🇻🇦
 - Java
-- Python (RenPy)
+- C#
+- HTML/CSS
+- (a bit of Pyhton)
 
-### Platforms I make programs for
+## Platforms
 - Windows
 - Android
 - iOS
