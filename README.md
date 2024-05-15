@@ -8,7 +8,7 @@ I'm **Wanja01**, I am a free-time Unity developer and game decompilation enthusi
 
 <br>
 
-![java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![c#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ¯ ![unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat&logo=unity&logoColor=white) ![unreal](https://img.shields.io/badge/unreal-373737?logo=unrealengine&logoColor=white)
+[![java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)](https://www.java.com/en/) [![c#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/) [![python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)](https://www.python.org/) ¯ [![unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat&logo=unity&logoColor=white)](https://unity.com/) [![unreal](https://img.shields.io/badge/unreal-373737?logo=unrealengine&logoColor=white)](https://www.unrealengine.com/en-US)
 
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=wanja01yt&show_icons=true)
