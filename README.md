@@ -1,34 +1,15 @@
-# [Wanja01YT](https://wanja01yt.github.io/)
+<img align="left" src="https://raw.githubusercontent.com/Wanja01YT/Wanja01YT/main/cungadero3.gif">
 
-## My interests
-- Video Game Development
-- Reverse Engineering
-- AI Image/Audio Generation
-- Creating Software for minor platforms
+### Hey! 👋
+I'm **Wanja01**, I am a free-time Unity developer and game decompilation enthusiast!
 
-## Languages
-🇺🇲🇷🇺🇩🇪🇪🇸🇯🇵🇻🇦
-- Java
-- C#
-- HTML/CSS
-- (a bit of Pyhton)
+[![youtube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat&logo=youtube&logoColor=white&)](https://www.youtube.com/@DastaliVseDS)
+[![views](https://komarev.com/ghpvc/?username=wanja01yt&style=flat&color=313131&label=views&abbreviated=true)](https://github.com/wanja01yt)
 
-## Platforms
-- Windows
-- Android
-- iOS
-- Nintendo Switch
-- 3DS
-- Wii U
-- PlayStation 4
-- PlayStation Vita
-- CASIO FX9860/FX9750 Series
-- CASIO FXCG10/20/50 Series
-- Casio CFX Series
+<br>
 
-<p>
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wanja01YT&&show_icons=true&theme=blueberry"/>
-</p>
+![java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![c#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ¯ ![unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat&logo=unity&logoColor=white) ![unreal](https://img.shields.io/badge/unreal-373737?logo=unrealengine&logoColor=white)
 
-<p >   
-</p>
+
+![github stats](https://github-readme-stats.vercel.app/api?username=wanja01yt&show_icons=true)
+
