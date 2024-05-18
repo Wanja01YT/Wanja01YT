@@ -1,4 +1,4 @@
-[<img align="left" src="https://raw.githubusercontent.com/Wanja01YT/Wanja01YT/main/cungadero3.gif">](#)
+[<img align="left" src="https://raw.githubusercontent.com/Wanja01YT/Wanja01YT/main/cungadero3.gif">](https://deltarune.com/wanja01yt)
 
 ### Hey! 👋
 I'm **Wanja01**, I am a free-time Unity developer and game decompilation enthusiast!
