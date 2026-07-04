@@ -3,7 +3,6 @@
 ### Hey! 👋
 I'm **Wanja01**, I am a free-time Unity developer and game decompilation enthusiast!
 
-[![youtube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat&logo=youtube&logoColor=white&)](https://www.youtube.com/@DastaliVseDS)
 [![views](https://komarev.com/ghpvc/?username=wanja01yt&style=flat&color=313131&label=views&abbreviated=true)](https://github.com/wanja01yt)
 <br>
 ## 🛠️ My Projects
